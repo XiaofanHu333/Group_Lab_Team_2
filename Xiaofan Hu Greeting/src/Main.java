@@ -3,7 +3,9 @@
  */
 public class Main {
     public static void main(String[] args) {
-        Member2.main(args);
         XiaofanHu.main(args);
+        Member2.main(args);
+        Member3.main(args);
+        Member4.main(args);
     }
 }
